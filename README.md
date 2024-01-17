@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zachary Taylor</h1>
+<h1 align="center">Hi, I'm Zachary Taylor</h1>
 <h3 align="center">Computer Science student at MTSU looking for a Software Engineering internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachtaylor2002&label=Profile%20views&color=0e75b6&style=flat" alt="zachtaylor2002" /> </p>
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **In the Summer of 2019, I earned a 1st Degree Blackbelt in Martial Arts**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
