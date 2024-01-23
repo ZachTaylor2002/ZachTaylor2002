@@ -6,7 +6,7 @@
 
 - 🔭 Classes Enrolled in this Spring 2024 Semester **CSCI 3210 (Theory of Programming) and CSCI 4410 (Web Technologies)**
 
-- 🌱 I’m currently learning **JavaScript, HTML, and CSS**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, and Swift**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZachTaylor2002](https://github.com/ZachTaylor2002)
 
