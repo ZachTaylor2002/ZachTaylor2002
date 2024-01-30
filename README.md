@@ -18,7 +18,7 @@
 
 - 📄 Related Articles [https://mtsunews.com/mtsu-hackmt-wrapup-2023/](https://mtsunews.com/mtsu-hackmt-wrapup-2023/)
 
-- ⚡ Fun fact **I am the winner of Middle Tennessee State University's HackMT 2024 Hackathon (BlueAid: Medical Bill Checker)**
+- ⚡ Fun fact **I am the winner of Middle Tennessee State University's HackMT 2024 Hackathon (BlueAid: Medical Bill Price Checker)**
 
 <p align="left">
 </p>
