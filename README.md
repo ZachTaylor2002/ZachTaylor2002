@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zachary Taylor</h1>
 <h3 align="center">Computer Science student at MTSU looking for a Software Engineering internship</h3>
-<img align="right" alt="Coding" width="400" src=https://mtsunews.com/wp-content/uploads/2023/01/2023-MTSU-HackMT1-100.jpg>
+<img align="right" alt="Coding" width="400" src=https:https://mtsunews.com/wp-content/uploads/2024/01/MTSU-HackMT-5-100.jpg>
 
 <p align="left"> <img src="https://mtsunews.com/wp-content/uploads/2024/01/MTSU-HackMT-5-100.jpg" alt="zachtaylor2002" /> </p>
 
