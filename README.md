@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at MTSU looking for a Software Engineering internship</h3>
 <img align="right" alt="Coding" width="400" src=https:https://mtsunews.com/wp-content/uploads/2024/01/MTSU-HackMT-5-100.jpg>
 
-<p align="left"> <img src="https://mtsunews.com/wp-content/uploads/2024/01/MTSU-HackMT-5-100.jpg" alt="zachtaylor2002" /> </p>
+
 
 - 🔭 Classes Enrolled in this Spring 2024 Semester **CSCI 3210 (Theory of Programming) and CSCI 4410 (Web Technologies)**
 
