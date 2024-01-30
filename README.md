@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student at MTSU looking for a Software Engineering internship</h3>
 <img align="right" alt="Coding" width="400" src=https://mtsunews.com/wp-content/uploads/2023/01/2023-MTSU-HackMT1-100.jpg>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zachtaylor2002&label=Profile%20views&color=0e75b6&style=flat" alt="zachtaylor2002" /> </p>
+<p align="left"> <img src="https://mtsunews.com/wp-content/uploads/2024/01/MTSU-HackMT-5-100.jpg" alt="zachtaylor2002" /> </p>
 
 - 🔭 Classes Enrolled in this Spring 2024 Semester **CSCI 3210 (Theory of Programming) and CSCI 4410 (Web Technologies)**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **zlt2m@mtmail.mtsu.edu**
 
-- 📄 Related Articles [https://mtsunews.com/mtsu-hackmt-wrapup-2023/](https://mtsunews.com/mtsu-hackmt-wrapup-2023/)
+- 📄 Related Articles [https://mtsunews.com/mtsu-computer-science-hackmt-2024//](https://mtsunews.com/mtsu-computer-science-hackmt-2024//)
 
 - ⚡ Fun fact **I am the winner of Middle Tennessee State University's HackMT 2024 Hackathon (BlueAid: Medical Bill Price Checker)**
 
